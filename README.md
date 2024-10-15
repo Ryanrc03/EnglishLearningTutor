@@ -6,5 +6,7 @@ This repository offers prompts tailored for Large Language Models, based on the 
 # How to start
 Clike the **Link** below and Copy the **whole** Prompt, sent it to GPT at the beginning of the conversation to get start! 
 
+![](guide.png)
+
 - [Essay Tutor Tool](EssayTutor.md)
 
