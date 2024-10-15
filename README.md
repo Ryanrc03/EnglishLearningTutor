@@ -8,6 +8,3 @@ Clike the **Link** below and Copy the **whole** Prompt, sent it to GPT at the be
 
 - [Essay Tutor Tool](EssayTutor.md)
 
-
-
-![Logo](Logo.jpeg)
